@@ -35,7 +35,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone this repository: git clone https://github.com/Nampardrakpa/3D_Portfolio_Website.git
 
-2. Navigate to the project directory: cd your-portfolio
+2. Navigate to the project directory: cd 3D_Portfolio_Website
 
 3. Install dependencies: npm install
 
