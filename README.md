@@ -33,7 +33,7 @@ Vite development: Leverage the speed and efficiency of Vite for fast development
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone this repository: git clone https://github.com/your-username/your-portfolio.git
+1. Clone this repository: git clone https://github.com/Nampardrakpa/3D_Portfolio_Website.git
 
 2. Navigate to the project directory: cd your-portfolio
 
