@@ -18,7 +18,7 @@ Welcome to the repository for my personal portfolio website built using React, V
 
 
 
-### Features
+## Features
 
 Interactive 3D object: Engage users with an interactive 3D object on the portfolio page.
 
@@ -29,7 +29,7 @@ Modern UI: A sleek and minimalistic user interface designed using React.
 Vite development: Leverage the speed and efficiency of Vite for fast development and hot reloading.
 
 
-### Getting Started
+## Getting Started
 
 Follow these steps to get the project up and running on your local machine:
 
@@ -44,7 +44,7 @@ Follow these steps to get the project up and running on your local machine:
 Your personal portfolio website will now be accessible at http://localhost:3000.
 
 
-### Usage
+## Usage
 
 Feel free to customize this portfolio template to make it your own. Replace the existing content, add your projects, and tweak the styles to reflect your personal brand. Don't forget to update the interactive 3D object to showcase your creativity!
 
